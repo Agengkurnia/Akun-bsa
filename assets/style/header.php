@@ -1,0 +1,1 @@
+<div align="center"><!-- <img src="../../style/images/header.png" width="950" height="80">--><h1 style="color:#FFFFFF;margin-top:50px;margin-bottom:30px;">PT. Mega Bintang Terang Manunggal</h1></div>
